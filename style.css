@@ -13,6 +13,7 @@ p {
 
 body {
     font-family: sans-serif;
+    background-color:rgba(112, 112, 64, 0.644);
 }
 
 header {
@@ -51,5 +52,11 @@ nav a {
     background-color:orange;
     border-radius:5cm;
     font-size:20px
+}
+
+
+.pp {
+    background-color:orange;
+    padding:10px;
 }
 
