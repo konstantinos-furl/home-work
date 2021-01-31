@@ -1,0 +1,57 @@
+img {
+    padding:10px;
+}
+
+p {
+    background-color:lightgreen;
+    border-radius:10%;
+    border:1px solid lightgreen;
+    padding:20px;
+    font-size:25px
+
+}
+
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:lightblue;
+    padding: 15px;
+    margin: -5px;
+    border-radius:20px;
+    border:1px solid black;
+}
+
+h1 {
+    text-align:center;
+    color:orange;
+    border:1px solid black;
+    border-radius:50cm;
+    background-color:grey;
+}
+
+footer {
+    border:10px solid orange;
+}
+
+nav {
+    border:1px solid grey;
+    border-radius:10px;
+    margin:10px;
+    padding:20px;
+    background-color:grey;
+}
+
+nav a {
+    margin:15px;
+    padding:10px;
+    color:black;
+    border:1px solid orange;
+    background-color:orange;
+    border-radius:5cm;
+    font-size:20px
+}
+
+
+
